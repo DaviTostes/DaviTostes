@@ -6,7 +6,9 @@ Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará um panorama dos meu
 
 ## Foco de Trabalho 
 
-Atuo na **criação de ferramentas e plugins**, com destaque para o ecossistema do **Neovim**. Minhas atividades também incluem a **construção de APIs eficientes** e a **exploração de sistemas complexos**, como **grafos** e aplicações de **inteligência artificial**.
+Meu trabalho gira em torno da criação e desenvolvimento de APIs REST eficientes e robustas. É aqui que a mágica acontece.
+
+Além disso, como hobby, dedico tempo à exploração de sistemas com grafos, inteligência artificial e ao desenvolvimento de plugins para Neovim.
 
 ---
 
