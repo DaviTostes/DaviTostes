@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará um panorama dos meu
 
 ## Foco de Trabalho 
 
-Meu trabalho gira em torno da criação e desenvolvimento de APIs REST eficientes e robustas. É aqui que a mágica acontece.
+Meu trabalho gira em torno da criação e desenvolvimento de APIs REST.
 
 Além disso, como hobby, dedico tempo à exploração de sistemas com grafos, inteligência artificial e ao desenvolvimento de plugins para Neovim.
 
