@@ -2,10 +2,10 @@
 
 ## Development Stack
 
-- **Editor**: [Neovim](https://neovim.io) — Fast, extensible, and terminal-based.
-- **Shell**: [fish](https://fishshell.com) — Smart and user-friendly.
-- **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/) — Blazingly fast, GPU-powered.
-- **OS**: [Arch Linux](https://archlinux.org) with [Hyprland](https://hyprland.org) — A dynamic tiling Wayland compositor.
+- **Editor**: [Neovim](https://neovim.io)
+- **Shell**: [fish](https://fishshell.com)
+- **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/) 
+- **OS**: [Arch Linux](https://archlinux.org) with [Hyprland](https://hyprland.org)
 
 ## GitHub Stats
 
