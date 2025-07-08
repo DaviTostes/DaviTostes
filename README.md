@@ -1,5 +1,7 @@
 ## Programmer
 
+> 🐧 "I use Arch, btw."
+
 ## Development Stack
 
 - **Editor**: [Neovim](https://neovim.io)
@@ -15,4 +17,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitostes&size_weight=0.5&count_weight=0.5&theme=transparent)
 
-> 🐧 "I use Arch, btw."
