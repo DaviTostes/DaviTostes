@@ -2,6 +2,8 @@
 
 > 🐧 "I use Arch, btw."
 
+![Alt text](./linux.gif)
+
 ## Development Stack
 
 - **Editor**: [Neovim](https://neovim.io)
