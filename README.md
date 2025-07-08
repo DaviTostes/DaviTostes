@@ -2,7 +2,7 @@
 
 > 🐧 "I use Arch, btw."
 
-![Alt text](./linux.gif)
+![Alt text](./linux-tux-622376782.gif)
 
 ## Development Stack
 
