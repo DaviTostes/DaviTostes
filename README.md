@@ -13,5 +13,4 @@
 
 ## GitHub Stats
 
-![Davi Tostes's GitHub stats](https://github-readme-stats.vercel.app/api?username=davitostes&layout=compact&hide_progress=false&show_icons=true&theme=transparent&line_height=24) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitostes&hide=issues&rank_icon=default&hide_progress=true&hide_rank=true&theme=transparent&line_height=24)
-
+![Davi Tostes's stack](https://github-readme-stats.vercel.app/api/top-langs/?username=davitostes&layout=compact&hide_progress=false&exclude_repo=simple-inertia,tech-bookshelf&theme=transparent) ![Davi Tostes's stats](https://github-readme-stats.vercel.app/api?username=davitostes&show_icons=true&theme=transparent&hide=issues&rank_icon=default&hide_progress=true&hide_rank=true&line_height=24) 
